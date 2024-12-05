@@ -1,1 +1,1 @@
-# Laborator5
+# Studiu Individual
